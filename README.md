@@ -74,6 +74,3 @@ posters/
 
 ## Contributing
 Feel free to contribute your own poster designs or suggest improvements to existing ones.
-
-## License
-[Add appropriate license information here]
